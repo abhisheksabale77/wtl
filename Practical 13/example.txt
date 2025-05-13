@@ -1,0 +1,3 @@
+Hello Aditya!
+Welcome to PHP file handling.
+You just appended this line!

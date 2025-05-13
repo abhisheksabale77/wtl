@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+    <Book id="001">
+        <Title>XML Basics</Title>
+        <Author>Jane Smith</Author>
+    </Book>
+    <Book id="002">
+        <Title>Advanced XML Parsing</Title>
+        <Author>John Doe</Author>
+    </Book>
+    <Book id="003">
+        <Title>Mastering XML in Python</Title>
+        <Author>Alice Johnson</Author>
+    </Book>
+    <Book id="004">
+        <Title>Chhava</Title>
+        <Author>Shivaji Savant<Author>
+    </Book>  
+</Library>

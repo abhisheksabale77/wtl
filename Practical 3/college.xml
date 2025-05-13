@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE COLLEGE SYSTEM "dtdexample.dtd">
+<?xml-stylesheet type="text/css" href="college.css"?>
+<COLLEGE>
+  <DEPARTMENT>Computer Science</DEPARTMENT>
+  <PROFESSOR>Dr. A.P.J. Abdul Kalam</PROFESSOR>
+  <STUDENTS>Aditya Krishnat Savant</STUDENTS>
+</COLLEGE>
